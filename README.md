@@ -37,7 +37,37 @@ Download the latest Git for Windows installer :)
 Link : https://git-scm.com/
 
 ```
-## Now open your terminal  to Verify the installation was successful by typing git --version:
+## Now open your terminal  to Verify the installation was successful by typing
 ```
 git --version
 ```
+# Configure your Git :
+
+### Configure username :
+
+```
+git config --global user.name "Dark Hunter"
+```
+### Configure Email :
+
+```
+git config --global user.email "darkhunter@example.com"
+```
+### Show git username :
+
+```
+git config user.name
+```
+### Show git email :
+
+```
+git config user.email
+```
+
+
+
+
+
+
+
+
