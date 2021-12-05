@@ -23,3 +23,16 @@ And Github is a cloud-based hosting service that lets you manage
 Git repositories.
 
 ```
+# Install Git 
+
+### Linux :
+
+```
+sudo apt-get install git
+```
+### Windows :
+```
+Download the latest Git for Windows installer :)
+
+Link : 	[title](https://www.example.com)
+```
