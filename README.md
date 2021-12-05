@@ -91,6 +91,24 @@ git init
 ```
 ls -a
 ```
+### check github status :
+```
+git status 
+```
+  
+And you will show a  error message and that is  :  
+
+```
+No commits yet
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        day1.txt
+        
+        
+nothing added to commit but untracked files present (use "git add" to track)
+
+```
 
 
 
