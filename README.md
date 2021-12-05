@@ -34,5 +34,10 @@ sudo apt-get install git
 ```
 Download the latest Git for Windows installer :)
 
-Link : 	[title](https://www.example.com)
+Link : https://git-scm.com/
+
+```
+## Now open your terminal  to Verify the installation was successful by typing git --version:
+```
+git --version
 ```
