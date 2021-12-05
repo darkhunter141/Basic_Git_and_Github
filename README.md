@@ -109,6 +109,6 @@ Untracked files:
 nothing added to commit but untracked files present (use "git add" to track)
 
 ```
-
+## how to add files in tracked area :
 
 
