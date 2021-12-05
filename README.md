@@ -64,7 +64,11 @@ git config user.name
 git config user.email
 ```
 
+### You can also use  this command
 
+```
+git config --list
+```
 
 
 
