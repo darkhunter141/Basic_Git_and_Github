@@ -81,6 +81,15 @@ mkdir basic git
 # now create a file 
 ```
 touch day1.txt
+
+and type :
+git init
+
+```
+### now check :
+
+```
+ls -a
 ```
 
 
