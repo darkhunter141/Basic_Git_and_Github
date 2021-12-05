@@ -72,6 +72,16 @@ git config --list
 
 
 
+# Create a git folder :
+
+### Create a folder using 
+```
+mkdir basic git
+```
+# now create a file 
+```
+touch day1.txt
+```
 
 
 
